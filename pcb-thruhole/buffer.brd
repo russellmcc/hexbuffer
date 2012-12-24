@@ -766,10 +766,6 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="24.3" y1="11.6" x2="30.7" y2="11.6" width="0.254" layer="16"/>
 <wire x1="30.7" y1="11.6" x2="31" y2="11.3" width="0.254" layer="16"/>
 </signal>
-<signal name="N$2">
-<wire x1="54.23" y1="17.77" x2="49.83" y2="17.77" width="0.254" layer="16"/>
-<wire x1="49.83" y1="17.77" x2="49.83" y2="14.27" width="0.254" layer="16"/>
-</signal>
 </signals>
 </board>
 </drawing>
