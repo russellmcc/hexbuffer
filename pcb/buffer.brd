@@ -606,7 +606,7 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="43" y1="3.1" x2="43" y2="11.3" width="0.254" layer="1"/>
 <wire x1="43.4" y1="14.095" x2="43.4" y2="11.3" width="0.254" layer="16"/>
 <wire x1="43.4" y1="11.3" x2="43" y2="11.3" width="0.254" layer="16"/>
-<wire x1="43.4" y1="14.095" x2="43.4" y2="15.365" width="0" layer="19" extent="16-16"/>
+<wire x1="43.4" y1="15.365" x2="43.4" y2="14.095" width="0.254" layer="16"/>
 </signal>
 <signal name="GND">
 <contactref element="U$1" pad="3"/>
@@ -790,7 +790,10 @@ Please make sure your boards conform to these design rules.</description>
 <via x="26" y="16" extent="1-16" drill="0.508"/>
 <wire x1="26" y1="16" x2="30.7" y2="11.3" width="0.254" layer="1"/>
 <wire x1="30.7" y1="11.3" x2="31" y2="11.3" width="0.254" layer="1"/>
-<wire x1="23.235" y1="16" x2="22.6" y2="16.635" width="0" layer="19" extent="16-16"/>
+<wire x1="23.235" y1="16" x2="23.235" y2="16.135" width="0.254" layer="16"/>
+<wire x1="23.235" y1="16.135" x2="22.86" y2="16.51" width="0.254" layer="16"/>
+<wire x1="22.86" y1="16.51" x2="22.725" y2="16.51" width="0.254" layer="16"/>
+<wire x1="22.725" y1="16.51" x2="22.6" y2="16.635" width="0.254" layer="16"/>
 </signal>
 </signals>
 </board>
