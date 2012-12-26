@@ -16,12 +16,12 @@
    id="svg2242"
    sodipodi:version="0.32"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="p1_inkscape.svg"
+   sodipodi:docname="panel_ponoko.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1"><metadata
    id="metadata2286"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs2284"><inkscape:perspective
    sodipodi:type="inkscape:persp3d"
    inkscape:vp_x="0 : 338.38501 : 1"
@@ -544,7 +544,7 @@
    inkscape:vp_x="0 : 338.38501 : 1"
    sodipodi:type="inkscape:persp3d" /></defs><sodipodi:namedview
    inkscape:window-height="756"
-   inkscape:window-width="1222"
+   inkscape:window-width="1219"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0.0"
    guidetolerance="10.0"
@@ -557,7 +557,7 @@
    inkscape:zoom="0.76"
    inkscape:cx="722.95266"
    inkscape:cy="349.03562"
-   inkscape:window-x="58"
+   inkscape:window-x="61"
    inkscape:window-y="0"
    inkscape:current-layer="layer9"
    showgrid="false"
@@ -4524,8 +4524,8 @@
    inkscape:groupmode="layer"
    id="layer9"
    inkscape:label="Your Design"><path
-     d="m 283.51457,484.6731 56.6938,0 0,-364.25201 -56.6938,0 0,364.25201 z"
-     style="fill:none;stroke:#0000ff;stroke-width:0.028346;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+     d="m 283.52546,484.67141 71.04994,0 0,-364.24863 -71.04994,0 0,364.24863 z"
+     style="fill:none;stroke:#0000ff;stroke-width:0.03173247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
      id="path4720"
      inkscape:connector-curvature="0" /><path
      d="m 309.12189,476.1691 c 0,2.504 -2.031,4.536 -4.535,4.536 -2.505,0 -4.535,-2.032 -4.535,-4.536 0,-2.505 2.03,-4.535 4.535,-4.535 2.504,0 4.535,2.03 4.535,4.535 z"
