@@ -1,0 +1,18 @@
+Connectors:
+1x MO8x2     Eurorack power connector
+8x erthenvar jack
+
+Semiconductors
+3x DIP-8     LF353 op amp
+
+Capacitor
+3x 2.5mm .1uF ceramic capacitor
+
+Cost:
+Components : 6
+PCB        : 6
+Panel      : 6
+Total      : 18
+
+Mouser link to project:
+http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=8b942c2668 
